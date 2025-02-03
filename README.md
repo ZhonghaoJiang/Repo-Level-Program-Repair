@@ -7,7 +7,7 @@ The workflow of these methods usually includes 3 phases: localization, repair ge
 >@Agentless Based Method  
 >@Fine-Tuned Based Method
 
-## Survey
+## Empirical Study
 | Cite                                                                                                                               |                            Literature                            | Journal/Conference |            Time             |                URL                |
 |------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------:|:------------------:|:---------------------------:|:---------------------------------:|
 | Meng, Xiangxin, et al. "An Empirical Study on LLM-based Agents for Automated Bug Fixing." arXiv preprint arXiv:2411.10213 (2024).  | An Empirical Study on LLM-based Agents for Automated Bug Fixing  |       Arxiv        |            2024             | https://arxiv.org/abs/2405.15793  |
